@@ -31,6 +31,3 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
 
-![Balambika's GitHub stats](https://github-readme-stats.vercel.app/api?username=balalabyte&show_icons=true&count_private=true)
-
-![HitCount](https://hits.dwyl.com/balalabyte/balalabyte/balalabyte.svg?style=flat-square)
