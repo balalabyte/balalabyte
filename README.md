@@ -11,7 +11,7 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 ![Alt text for the GIF](https://github.com/balalabyte/balalabyte/assets/60688697/cbca8b68-dbab-430e-8ec6-1643fe6d6d76)
 
 
-<img src="https://github.com/balalabyte/balalabyte/assets/60688697/cbca8b68-dbab-430e-8ec6-1643fe6d6d76?raw=true" align="right" width="100" height="100" />
+<img src="https://github.com/balalabyte/balalabyte/assets/60688697/cbca8b68-dbab-430e-8ec6-1643fe6d6d76?raw=true" align="right" />
 
 ## ⚡️ A Few Quick Facts
 
