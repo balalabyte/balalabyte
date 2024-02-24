@@ -15,7 +15,7 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 - 🧐 Learning about **Deep Learning**, **Natural Language Processing**, and **Big Data Technologies**.
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/balalabyte).
 - 💬 Ping me about **data science, analytics, and research methodologies**.
-- 🎉 Fun Fact:I love all kinds of music, anime (Korean-wave has got to me as well XD).
+- 🎉 Fun Fact:I love cats, Nya.
 
 
 ## 🚀 Some Tools I Use
