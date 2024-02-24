@@ -1,4 +1,4 @@
-<h3 align=center>👋, I'm [Balambika Baskaran](#) **✨** </h3>
+<h3 align=center>Hi👋😊, I'm Balambika Baskaran ✨</h3>
 <h3 align="center">Me 💕 Data </h3>
 
 I'm currently a Master’s student in Management Sciences specializing in data science and analytics at **[University of Waterloo](#)**. I am working on data analysis, statistical modelling, and machine learning projects, learning new skills, and seeking to make a substantial impact in real-world data science projects.
@@ -40,3 +40,5 @@ I'm currently a Master’s student in Management Sciences specializing in data s
   <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel" height="30" />
 
 </p>
+
+🌸✨
