@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Balambika Baskaran](#) **✨**
+<h3 align=center>👋, I'm [Balambika Baskaran](#) **✨** </h3>
 <h3 align="center">Me 💕 Data </h3>
 
 I'm currently a Master’s student in Management Sciences specializing in data science and analytics at **[University of Waterloo](#)**. I am working on data analysis, statistical modelling, and machine learning projects, learning new skills, and seeking to make a substantial impact in real-world data science projects.
@@ -13,11 +13,6 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://priya-shan.github.io/Portfolio/)
-
-- 💬 Ask me about **✨Java✨**
 
 ## ⚡️ A Few Quick Facts
 
@@ -25,10 +20,10 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 - 🧐 Learning about **Deep Learning**, **Natural Language Processing**, and **Big Data Technologies**.
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/balalabyte).
 - 💬 Ping me about **✨data science, analytics, and research methodologie✨**.
-- 🎉 Fun Fact:I love cats, Nya.
+- 🎉 Fun Fact: I love cats, Nya. 🐱
 
 
-## 🚀 Some Tools I Use
+## 🚀 Some Tools I Use 🌱 👨‍💻
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
