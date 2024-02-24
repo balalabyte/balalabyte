@@ -19,7 +19,7 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 - 🔭 I’m currently working on data analysis and predictive modeling using advanced statistical techniques.
 - 🧐 Learning about **Deep Learning**, **Natural Language Processing**, and **Big Data Technologies**.
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/balalabyte).
-- 💬 Ping me about **✨data science, analytics, and research methodologie✨**.
+- 💬 Ping me about **✨data science, analytics, market research, risk modelling and research methodologies✨**.
 - 🎉 Fun Fact: I love cats, Nya. 🐱
 
 
