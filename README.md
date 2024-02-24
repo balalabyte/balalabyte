@@ -7,7 +7,8 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 - 🔗 LinkedIn: [balambika-baskaran](https://www.linkedin.com/in/balambika-baskaran)
 - 💼 GitHub: [balalabyte](https://github.com/balalabyte)
 
-🍌 Don't forget to get some Potassium 🍌
+🍌 Don't forget to get some Potassium 🍌                                                                      ![image](https://github.com/balalabyte/balalabyte/assets/60688697/50ff4654-a931-474e-b40b-3c27e553e1da)
+
 
 ## ⚡️ A Few Quick Facts
 
