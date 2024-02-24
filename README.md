@@ -8,8 +8,6 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 - 💼 GitHub: [balalabyte](https://github.com/balalabyte)
 
 🍌 Don't forget to get some Potassium 🍌                                                               
-![Alt text for the GIF](https://github.com/balalabyte/balalabyte/assets/60688697/cbca8b68-dbab-430e-8ec6-1643fe6d6d76)
-
 
 <img src="https://github.com/balalabyte/balalabyte/assets/60688697/cbca8b68-dbab-430e-8ec6-1643fe6d6d76?raw=true" align="right" />
 
