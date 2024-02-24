@@ -25,14 +25,18 @@ I'm currently a Master’s student in Management Sciences specializing in data s
 
 ## 🚀 Some Tools I Use 🌱 👨‍💻
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud)
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" height="30" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python" height="30" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r" height="30" />
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks" height="30" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql" height="30" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow" height="30" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras" height="30" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau" height="30" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" height="30" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud" height="30" />
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure" height="30" />
+  <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel" height="30" />
 
+</p>
